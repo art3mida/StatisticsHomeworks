@@ -1,0 +1,16 @@
+Detaljan postupak prikupljanja podataka i konstrukcije histograma je u domaci.html fajlu.
+Za direktan pristup kodu (.ipynb), potrebno je imati instaliran jupyter notebook.
+Ukoliko nemate instaliran jupyter notebook, ovde je uputstvo za instalaciju na Linux-u:
+  https://jupyter.org/install
+
+Za Windows je mala razlika, potrebno je samo dodati neke stvari na
+pocetku komande, kao i flag --user, pa bi tako za komandu
+  pip install jupyterlab
+analogna Windows komanda bila
+  py -3 -m pip install --user jupyterlab
+i tako za sve komande koje se pozivaju.
+
+Na kraju se sve pokrece sa komandom
+  jupyter notebook
+nakon cega treba kliknuti na .ipynb fajl.
+
